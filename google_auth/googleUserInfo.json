@@ -1,0 +1,33 @@
+{
+  "message": "User Info from Google",
+  "user": {
+    "profile": {
+      "id": "117795092478602517998",
+      "displayName": "CHANDRA PRAKASH RAWAT",
+      "name": { "familyName": "RAWAT", "givenName": "CHANDRA PRAKASH" },
+      "emails": [{ "value": "chandu.rawat14@gmail.com", "verified": true }],
+      "photos": [
+        {
+          "value": "https://lh3.googleusercontent.com/a/AEdFTp6trKtuHuIzNpSwY5x4DNF5DFUvmzUsYRaDQutC0Q=s96-c"
+        }
+      ],
+      "provider": "google",
+      "_raw": "{\n  \"sub\": \"117795092478602517998\",\n  \"name\": \"CHANDRA PRAKASH RAWAT\",\n  \"given_name\": \"CHANDRA PRAKASH\",\n  \"family_name\": \"RAWAT\",\n  \"picture\": \"https://lh3.googleusercontent.com/a/AEdFTp6trKtuHuIzNpSwY5x4DNF5DFUvmzUsYRaDQutC0Q\\u003ds96-c\",\n  \"email\": \"chandu.rawat14@gmail.com\",\n  \"email_verified\": true,\n  \"locale\": \"en\"\n}",
+      "_json": {
+        "sub": "117795092478602517998",
+        "name": "CHANDRA PRAKASH RAWAT",
+        "given_name": "CHANDRA PRAKASH",
+        "family_name": "RAWAT",
+        "picture": "https://lh3.googleusercontent.com/a/AEdFTp6trKtuHuIzNpSwY5x4DNF5DFUvmzUsYRaDQutC0Q=s96-c",
+        "email": "chandu.rawat14@gmail.com",
+        "email_verified": true,
+        "locale": "en"
+      }
+    },
+    "email": "chandu.rawat14@gmail.com",
+    "firstName": "CHANDRA PRAKASH",
+    "lastName": "RAWAT",
+    "picture": "https://lh3.googleusercontent.com/a/AEdFTp6trKtuHuIzNpSwY5x4DNF5DFUvmzUsYRaDQutC0Q=s96-c",
+    "accessToken": "ya29.a0AeTM1iejmapKBLh9HCI-q8R6iC-hS67s7v2A4iOpnC0wxSZg7tER5x3nkxN9TnxaIT_cF5d7hVG3mOOmzzC4CiDBD_cv64UwVYuDwoX98VcvcCyvmCUrZGiE6wOBRC_nYH3lLNjUmn61seEfTgsCQx5jgP5vaCgYKAYISARESFQHWtWOmwlUvrzFAHXdwqhR-Wn5DYA0163"
+  }
+}
